@@ -1,0 +1,11 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    /* background-color: aqua; */
+}
+
+.navbar-brand{
+    padding:0.5% 5%;
+}
+.navbar-nav{
+    padding: 0.5% 5%;
+}
