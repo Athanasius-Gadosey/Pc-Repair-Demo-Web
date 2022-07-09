@@ -9,3 +9,7 @@ body{
 .navbar-nav{
     padding: 0.5% 5%;
 }
+
+.container-fluid{
+    padding: 0.5% 5%;
+}
