@@ -2,7 +2,7 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const ejs = require('ejs');
-// const nodemailer = require('nodemailer');
+const nodemailer = require('nodemailer');
 
 const app = express();
 
